@@ -59,7 +59,7 @@ Telecom providers face significant revenue loss from customer churn.
 ---
 
 ## 🔗 Links  
-- 📄 [ChurnSight Report (PDF)](ChurnSight_Report.pdf)  
+- 📄 [ChurnSight Report (PDF)](ChurnSight Report.pdf)  
 - 📊 [Power BI Dashboards (PDF)](ChurnSight_Dashboards.pdf)  
 - 📘 [Databricks Notebook (HTML)](databricks_notebook.html)  
 - 💼 [LinkedIn Post Showcase](<your LinkedIn post URL once published>)  
