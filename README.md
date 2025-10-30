@@ -57,12 +57,12 @@ Telecom providers face significant revenue loss from customer churn.
 - **Business Analytics:** RFM scoring, customer segmentation, churn risk modelling  
 
 ---
+## 🔗 Links
 
-## 🔗 Links  
-- 📄 [ChurnSight Report (PDF)](ChurnSight Report.pdf)  
-- 📊 [Power BI Dashboards (PDF)](ChurnSight_Dashboards.pdf)  
-- 📘 [Databricks Notebook (HTML)](databricks_notebook.html)  
-- 💼 [LinkedIn Post Showcase](<your LinkedIn post URL once published>)  
+- 📄 [ChurnSight Report (PDF)](ChurnSight%20Report.pdf)
+- 📊 [Power BI Dashboards (PDF)](ChurnSight%20PBI.pdf)
+- 🧠 [Databricks Notebook (HTML)](Phase2_Churn_ML2.html)
+- 🧾 [Final Scored Dataset (CSV)](final_scored.csv)
 
 ---
 
