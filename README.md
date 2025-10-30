@@ -63,10 +63,7 @@ Telecom providers face significant revenue loss from customer churn.
 - 📊 [Power BI Dashboards (PDF)](ChurnSight%20PBI.pdf)
 - 💡 [Power BI Project File (.pbix)](ChurnSight.%20PBIpbix.pbix)
 - 🧠 [Databricks Notebook (ZIP)](Phase2_Churn_ML2.zip)
-- 📂 [Raw Dataset (CSV)](WA_Fn-UseC__Telco-Customer-Churn.csv)
 - 🧾 [Final Scored Dataset (CSV)](final_scored.csv)
-- 🧱 [Azure SQL Setup Script](churnsight_phase1_azure_sql.sql)
-- 🤝 [LinkedIn Post Showcase](<your_LinkedIn_post_URL_once_published>)
 
 
 ---
